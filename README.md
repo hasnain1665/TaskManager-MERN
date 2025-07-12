@@ -24,25 +24,29 @@ A full-stack task management application that allows users to manage their daily
 
 ### Login Page
 
-![Login Page](Screenshots/Login%20Page.png)
+![Login Page](screenshots/Login%20Page.png)
 
 ### Signup Page
 
-![Signup Page](Screenshots/Signup%20Page.png)
+![Signup Page](screenshots/Register%20Page.png)
 
 ### Tasks Dashboard Page
 
-![Tasks Dashboard Page](Screenshots/Tasks%20Dashboard%20Page.png)
+![Tasks Dashboard Page](screenshots/Tasks%20Dashboard%20Page.png)
 
-### Add/Edit Task Modal
+### Add Task Modal
 
-![Add/Edit Task Modal](Screenshots/Modal%20Component.png)
+![Add Task Modal](screenshots/Create%20Task%20Modal.png)
+
+### Edit Task Modal
+
+![Edd Task Modal](screenshots/Edit%20Task%20Modal.png)
 
 ### Filter Tasks
 
-![Filter Tasks 01](Screenshots/Filtered%2001.png)
+![Filter Tasks 01](screenshots/Filter%2001.png)
 
-![Filter Tasks 02](Screenshots/Filtered%2002.png)
+![Filter Tasks 02](screenshots/Filter%2002.png)
 
 ## Tech Stack
 
